@@ -15,10 +15,10 @@ Sou estudante de Analise e Desenvolvimento na FATEC de Presidente produnte. Apai
 
 - Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=java,C#,python)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=java,cs,python)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=spring,dotnet,figma)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
@@ -27,7 +27,7 @@ Sou estudante de Analise e Desenvolvimento na FATEC de Presidente produnte. Apai
     [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,postman)](https://skillicons.dev)
 - Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=,html,css)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ## 🏆 Projetos Destacados
 
