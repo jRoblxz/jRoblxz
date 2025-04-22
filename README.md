@@ -1,80 +1,41 @@
-<h2 align="left">Hello World 👋! My name is Joao and I'm a Developer from Brazil</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jRoblxz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jRoblxz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer">
 </div>
 
-###
+# João Roblez
 
-<h4 align="left">Languages and Tools</h4>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[SeuPerfil]-blue?logo=linkedin)](https://www.linkedin.com/in/[SeuPerfil])
+[![Website](https://img.shields.io/badge/Website-[SeuWebsite]-blue?logo=google-chrome)](https://www.[seusite.com])
 
-###
+## 👋 Olá!
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-</div>
+Sou estudante de Analise e Desenvolvimento na FATEC de Presidente produnte. Apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
 
-###
+## 🚀 Habilidades Técnicas
 
-<br clear="both">
+- Linguagens de Programação: 
 
-<h4 align="left">My Social Medias</h4>
+    [![My Skills](https://skillicons.dev/icons?i=java,C#,python)](https://skillicons.dev)
+- Frameworks e Bibliotecas: 
 
-###
+    [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+- Dados: 
 
-<img align="right" height="150" src="https://i.imgflip.com/9au02y.jpg"  />
+    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+- Ferramentas e Tecnologias: 
 
-###
+    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,postman)](https://skillicons.dev)
+- Desenvolvimento Web:
 
-<div align="left">
-  <a href="www.linkedin.com/in/joão-roblez" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/joaoroblxz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="14982136520" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="jroblxz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
+    [![My Skills](https://skillicons.dev/icons?i=,html,css)](https://skillicons.dev)
 
-###
+## 🏆 Projetos Destacados
 
-<br clear="both">
+- [Projeto 1](https://github.com/jRoblxz/POO_Noite): Conhecimento e atividades em C# (POO).
+- [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma descrição breve do projeto e suas principais características.
+- [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma descrição breve do projeto e suas principais características.
 
-<img src="https://raw.githubusercontent.com/jRoblxz/jRoblxz/output/snake.svg" alt="Snake animation" />
 
-###
+Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jRoblxz/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/jRoblxz">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jRoblxz&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+![jRoblxz GitHub stats](https://github-readme-stats.vercel.app/api?username=jRoblxz&show_icons=true&theme=dark)
