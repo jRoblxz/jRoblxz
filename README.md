@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer">
+  <img src="banner.jpeg" alt="Software Developer">
 </div>
 
 # João Roblez
