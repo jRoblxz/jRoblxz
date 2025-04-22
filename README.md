@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.jpeg" alt="Software Developer">
+  <img src="banner.png" alt="Software Developer">
 </div>
 
 # João Roblez
