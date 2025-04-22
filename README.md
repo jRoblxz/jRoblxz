@@ -22,7 +22,7 @@ Estou em busca de uma oportunidade no mercado de trabalhao como estagiário.
     [![My Skills](https://skillicons.dev/icons?i=java,cs,python)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=spring,dotnet)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=spring,angular,nodejs,dotnet)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
@@ -31,13 +31,13 @@ Estou em busca de uma oportunidade no mercado de trabalhao como estagiário.
     [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma)](https://skillicons.dev)
 - Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
 
 ## 🏆 Projetos Destacados
 
 - [Projeto 1](https://github.com/jRoblxz/POO_Noite): Conhecimento e atividades em C# (POO).
-- [Projeto 2](https://github.com/[seu-usuario]/projeto2): Repositório destinado ao meu TCC em colaboração com @Kaynan. Projeto destinado a análise de estatisticas esportivas, utilizando java, spring, angular, mysql e python.
-- [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma descrição breve do projeto e suas principais características.
+<!-- - [Projeto 2](https://github.com/[seu-usuario]/projeto2): Repositório destinado ao meu TCC em colaboração com @Kaynan. Projeto destinado a análise de estatisticas esportivas, utilizando java, spring, angular, mysql e python.
+- [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma descrição breve do projeto e suas principais características. -->
 
 
 ## 
