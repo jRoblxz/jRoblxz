@@ -45,4 +45,4 @@ Fique à vontade para entrar em contato comigo para discutir oportunidades de co
 [![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
 
 
-![jRoblxz GitHub stats](https://github-readme-stats.vercel.app/api?username=jRoblxz&show_icons=true&theme=dark) [![jRoblxz](https://github-readme-stats.vercel.app/api/top-langs/?username=jRoblxz&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![jRoblxz GitHub stats](https://github-readme-stats.vercel.app/api?username=jRoblxz&show_icons=github&theme=dark) [![jRoblxz](https://github-readme-stats.vercel.app/api/top-langs/?username=jRoblxz&hide=html&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
