@@ -9,7 +9,8 @@
 
 ## 👋 Olá!
 
-Sou estudante de Analise e Desenvolvimento na FATEC de Presidente produnte. Apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
+Sou estudante do 5º Termo de Analise e Desenvolvimento na FATEC de Presidente produnte. Apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
+Estou em busca de uma oportunidade no mercado de trabalhao como estagiário.
 
 ## 🚀 Habilidades Técnicas
 
@@ -18,13 +19,13 @@ Sou estudante de Analise e Desenvolvimento na FATEC de Presidente produnte. Apai
     [![My Skills](https://skillicons.dev/icons?i=java,cs,python)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=spring,dotnet,figma)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=spring,dotnet)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,postman)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,postman,figma)](https://skillicons.dev)
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
