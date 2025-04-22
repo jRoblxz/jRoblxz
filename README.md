@@ -39,4 +39,10 @@ Estou em busca de uma oportunidade no mercado de trabalhao como estagiário.
 
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
 
-![jRoblxz GitHub stats](https://github-readme-stats.vercel.app/api?username=jRoblxz&show_icons=true&theme=dark)
+## 📱Contato
+[![Gmail Badge](https://img.shields.io/badge/-joaoroblez76@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaoroblez76@gmail.com)](mailto:joaoroblez76@gmail.com)
+[![Linkedin: João Roblez](https://img.shields.io/badge/-joaoroblez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoroblez/)](https://www.linkedin.com/in/joaoroblez/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
+
+
+![jRoblxz GitHub stats](https://github-readme-stats.vercel.app/api?username=jRoblxz&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jRoblxz&layout=donut_icons=true&theme=dark)](https://github.com/jRoblxz/github-readme-stats)
