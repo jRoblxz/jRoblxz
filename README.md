@@ -45,7 +45,7 @@ Fique à vontade para entrar em contato comigo para discutir oportunidades de co
 
 ![jRoblxz GitHub stats](https://github-readme-stats.vercel.app/api?username=jRoblxz&show_icons=true&rank_icon=github&theme=midnight-purple) [![jRoblxz](https://github-readme-stats.vercel.app/api/top-langs/?username=jRoblxz&hide=html&layout=donut&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake gif](https://github.com/jRoblxz/jRoblxz/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/jRoblxz/jRoblxz/blob/output/github-user-contribution.svg)
 
 
   <source
