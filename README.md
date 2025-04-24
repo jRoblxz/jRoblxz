@@ -43,6 +43,4 @@ Estou em busca de uma oportunidade no mercado de trabalhao como estagiário.
 ## 
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12175365145&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=61187c&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=12175365145&redirect=true)
-
 ![jRoblxz GitHub stats](https://github-readme-stats.vercel.app/api?username=jRoblxz&show_icons=true&rank_icon=github&theme=midnight-purple) [![jRoblxz](https://github-readme-stats.vercel.app/api/top-langs/?username=jRoblxz&hide=html&layout=donut&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
