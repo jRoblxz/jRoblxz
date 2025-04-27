@@ -35,7 +35,8 @@ Estou em busca de uma oportunidade no mercado de trabalhao como estagiário.
 
 ## 🏆 Projetos Destacados
 
-- [Projeto 1](https://github.com/jRoblxz/POO_Noite): Conhecimento e atividades em C# (POO).
+- [Projeto 1](https://github.com/jRoblxz/POO_Noite): Conhecimento e atividades em C# (POO). 
+- [Projeto 2](https://www.figma.com/design/yUqP0Drax2EDACBN04sbKn/%2BRESENHA?m=auto&t=6J0UpeUONSnubtm7-6): Projeto de Design feito no Figma para o meu TCC.
 <!-- - [Projeto 2](https://github.com/[seu-usuario]/projeto2): Repositório destinado ao meu TCC em colaboração com @Kaynan. Projeto destinado a análise de estatisticas esportivas, utilizando java, spring, angular, mysql e python.
 - [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma descrição breve do projeto e suas principais características. -->
 
