@@ -8,7 +8,7 @@
 [![Linkedin: João Roblez](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoroblez)](https://www.linkedin.com/in/joaoroblez)
 [![Whatsapp: João Roblez](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5514982136520)](https://wa.me/5514982136520)
 [![Instagram: João Roblez](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/joaoroblxz?igsh=MTE0eTRvbzhscTljOQ%3D%3D&utm_source=qr)](https://www.instagram.com/joaoroblxz?igsh=MTE0eTRvbzhscTljOQ%3D%3D&utm_source=qr)
-[![Linkedin: Curriculo](https://img.shields.io/badge/-curriculo-gray?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://drive.google.com/file/d/14apNfsNt7HvWhkPN1CpuiUex6eeW_njD/view?usp=drivesdk/)](https://drive.google.com/file/d/14apNfsNt7HvWhkPN1CpuiUex6eeW_njD/view?usp=drivesdk)<br><br>
+[![Linkedin: Curriculo](https://img.shields.io/badge/-curriculo-gray?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://drive.google.com/file/d/14apNfsNt7HvWhkPN1CpuiUex6eeW_njD/view?usp=drivesdk/)](https://drive.google.com/file/d/1khz8_0II8BKmlpocmY2QdwrDS2lG_u5E/view?usp=sharing)<br><br>
 
 ## 👋 Olá!
 
