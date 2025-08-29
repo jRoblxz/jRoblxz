@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" alt="Software Developer">
+  <img src="Banner para Linkedin Tecnologia Abstrato Azul e Branco.png" alt="Software Developer">
 </div>
 
 # João Roblez
