@@ -19,10 +19,10 @@ Estou em busca de uma oportunidade no mercado de trabalhao como estagiário.
 
 - Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=java,cs,python,php)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=php,cs,python)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=spring,angular,nodejs,react,dotnet,bootstrap)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=laravel,react,dotnet,bootstrap)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
