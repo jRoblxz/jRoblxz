@@ -1,56 +1,70 @@
 <div align="center">
-  <img src="banner_novo.png" alt="Software Developer">
+  <img src="banner_novo.png" alt="Banner João Roblez" width="100%" />
 </div>
 
-# João Roblez
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A959FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+React;Analista+de+Sistemas+em+Forma%C3%A7%C3%A3o;Apaixonado+por+Inova%C3%A7%C3%A3o" alt="Typing SVG" />
+  </a>
+</div>
 
-[![Gmail: João Roblez](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:joaoroblez76@gmail.com)](mailto:joaoroblez76@gmail.com) 
-[![Linkedin: João Roblez](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoroblez)](https://www.linkedin.com/in/joaoroblez)
-[![Whatsapp: João Roblez](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5514982136520)](https://wa.me/5514982136520)
-[![Instagram: João Roblez](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/joaoroblxz?igsh=MTE0eTRvbzhscTljOQ%3D%3D&utm_source=qr)](https://www.instagram.com/joaoroblxz?igsh=MTE0eTRvbzhscTljOQ%3D%3D&utm_source=qr)
-<!--[![Linkedin: Curriculo](https://img.shields.io/badge/-curriculo-gray?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://drive.google.com/file/d/14apNfsNt7HvWhkPN1CpuiUex6eeW_njD/view?usp=drivesdk/)](https://drive.google.com/file/d/1khz8_0II8BKmlpocmY2QdwrDS2lG_u5E/view?usp=sharing)--> 
-<br><br>
+<div align="center">
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoroblez76@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoroblez)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5514982136520)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaoroblxz)
 
-## 👋 Olá!
+</div>
 
-Sou João Pedro Costa Roblez, estudante de Análise e Desenvolvimento de Sistemas, atualmente no último termo da graduação, com conclusão prevista para meados de 2026.
+<br>
 
-Atuo profissionalmente como Auxiliar de Desenvolvimento de Sistemas na Unoeste, no departamento de Design Instrucional, responsável pela gestão e desenvolvimento de soluções para laboratórios exclusivos da instituição, como a Sala Betha e a Arena Lab.
+## ⚡ Sobre Mim
 
-Tenho experiência no desenvolvimento de sistemas utilizando React, PHP e Laravel, além de conhecimentos iniciais em Unity. Possuo forte interesse em criar soluções tecnológicas que unam eficiência, inovação e qualidade.
+Olá! Sou **João Pedro Costa Roblez**, desenvolvedor focado em criar soluções web robustas e escaláveis.
 
-Busco constantemente aprimorar meus conhecimentos e contribuir para projetos que gerem impacto real, agregando valor por meio da tecnologia.
+Atualmente, estou finalizando minha graduação em **Análise e Desenvolvimento de Sistemas** (2026) e atuo no departamento de Design Instrucional da **Unoeste**, onde desenvolvo tecnologias para ambientes de aprendizado inovadores, como a *Sala Betha* e *Arena Lab*.
 
-## 🚀 Habilidades Técnicas
+Meu foco técnico principal é a stack **PHP (Laravel)** e **JavaScript (React)**, mas também tenho um forte interesse em desenvolvimento de jogos (Unity) e automação. Estou sempre em busca de projetos que desafiem minha criatividade e capacidade técnica.
 
-- Linguagens de Programação: 
+---
 
-    [![My Skills](https://skillicons.dev/icons?i=php,cs,python,ts)](https://skillicons.dev)
-- Frameworks e Bibliotecas: 
+## 🛠️ Tech Stack
 
-    [![My Skills](https://skillicons.dev/icons?i=laravel,react,tailwind,bootstrap,materialui)](https://skillicons.dev)
-- Dados: 
+<div align="center">
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-- Ferramentas e Tecnologias: 
+| Backend | Frontend | Ferramentas & Dados |
+| :---: | :---: | :---: |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel,python,cs" width="200"/></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,ts,tailwind,bootstrap,materialui,html,css" width="300"/></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman,figma" width="250"/></a> |
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma)](https://skillicons.dev)
-- Desenvolvimento Web:
+</div>
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css,ts,materialui,react,tailwind)](https://skillicons.dev)
+---
 
-## 🏆 Projetos Destacados
+## 🏆 Projetos em Destaque
 
-- [Projeto 1]([https://github.com/jRoblxz/Curso_Spring-Boot](https://github.com/jRoblxz/my-portifolio)): Portifólio pessoal, deploy em domínio próprio. 
-- [Projeto 2]([https://github.com/jRoblxz/Curso_Spring-Boot](https://github.com/jRoblxz/Projeto_TCC)): Sistema de peneiras de futebol, projeto para o TCC.
-- [Projeto 3](https://github.com/jRoblxz/Extrair_NotasFiscais): Código em python para automatizar processos de notas fiscais.
-<!-- - [Projeto 2](https://github.com/[seu-usuario]/projeto2): Repositório destinado ao meu TCC em colaboração com @Kaynan. Projeto destinado a análise de estatisticas esportivas, utilizando java, spring, angular, mysql e python.
-- [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma descrição breve do projeto e suas principais características. -->
+| Projeto | Descrição | Stack |
+| :--- | :--- | :---: |
+| **[Portifólio](https://github.com/jRoblxz/my-portifolio)** | Meu portfólio profissional com deploy em domínio próprio. Focado em performance e design responsivo. | `React` `TS` `Tailwind` |
+| **[Peniras Go! (TCC)](https://github.com/jRoblxz/Projeto_TCC)** | Sistema completo para gestão de peneiras de futebol, jogadores e times. Inclui painéis administrativos e gestão de dados. | `Laravel` `React` `MySQL` |
+| **[Bot NFe](https://github.com/jRoblxz/Extrair_NotasFiscais)** | Automação em Python desenvolvida para extrair e processar dados de Notas Fiscais, otimizando fluxos de trabalho. | `Python` `Pandas` |
+
+---
+
+## 📈 GitHub Stats
 
 
-## 
-Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
+<div align="center">
+  
+  ![jRoblxz](https://github-readme-stats.vercel.app/api/top-langs/?username=jRoblxz&hide=html&layout=donut&theme=midnight-purple)
+  
+</div>
 
-![jRoblxz GitHub stats](https://github-readme-stats.vercel.app/api?username=jRoblxz&show_icons=true&rank_icon=github&theme=midnight-purple) [![jRoblxz](https://github-readme-stats.vercel.app/api/top-langs/?username=jRoblxz&hide=html&layout=donut&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
-![snake gif](https://github.com/jRoblxz/jRoblxz/blob/output/github-contribution-grid-snake.gif)  
+
+<br>
+
+<div align="center">
+  <sub>Feito por João Roblez</sub>
+</div>
