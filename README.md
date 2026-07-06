@@ -130,14 +130,12 @@ Integração de webhooks e APIs externas para automação de rotinas fiscais e a
 ## 📊 Métricas de Produtividade & Código
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jRoblxz&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1E1C1C&title_color=7C3AED&icon_color=A959FF&text_color=E4E0D7" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jRoblxz&hide=html&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1E1C1C&title_color=7C3AED&text_color=E4E0D7" height="175" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=jRoblxz&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1E1C1C&title_color=7C3AED&icon_color=A959FF&text_color=E4E0D7" height="175" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jRoblxz&hide=html&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1E1C1C&title_color=7C3AED&text_color=E4E0D7" height="175" alt="Top Languages" />
 </div>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jRoblxz&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jRoblxz&theme=tokyo-night" alt="Activity Graph" width="100%" />
 </div>
