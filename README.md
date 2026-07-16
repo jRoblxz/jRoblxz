@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner_novo.png" alt="Banner João Roblez" width="100%" />
+  <img src="banner.png" alt="Banner João Roblez" width="100%" />
 </div>
 
 <div align="center">
